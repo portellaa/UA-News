@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UANews</string>
+    
+    <string name="internetAlertTitle">Internet Connection</string>
+    <string name="noInternetMessage">It\'s required an internet connection.</string>
+    <string name="gettingInfo">Fetching Information. Please Wait &#8230;</string>
+    <string name="newsImageDesc">UA RSS News Image</string>
+
+</resources>
